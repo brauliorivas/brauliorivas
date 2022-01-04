@@ -4,10 +4,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=brauliorivas)
 
-📈 **My GitHub Stats:**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact)
-
 I am a full-stack developer and content creator. I love programming, reading, fitness and business.
 
 As a software engineer, I really like to create a bunch of stuff about anythin new that comes as Crypto, NFT or ecommerce. I have big dreams so I'm constantly hard working.
@@ -24,6 +20,11 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 - 📫 How to reach me: brivasabad@gmail.com;
 
 </br>
+
+📈 **My GitHub Stats:**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact)
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
