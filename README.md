@@ -9,4 +9,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 12 mins   ███████████████████░░░░░░   75.63 % 
+YAML         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+TOML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Bash         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+JSON         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+```
 <!--END_SECTION:waka-->
