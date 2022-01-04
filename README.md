@@ -21,8 +21,8 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 </br>
 
 ### Popular repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliorivas&repo=countrieshub)](https://github.com/brauliorivas/countrieshub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliorivas&repo=pokedex-interactivo)](https://github.com/brauliorivas/pokedex-interactivo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliorivas&repo=countrieshub)](https://github.com/brauliorivas/https://github.com/brauliorivas/countrieshub)
 
 
 📈 **My GitHub Stats:**
