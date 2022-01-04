@@ -20,7 +20,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 - 👨🏻‍💻 I’m currently working on something cool (coding related);
 - 🚀 I’m currently learning to code in [platzi](https://platzi.com);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary post on twitter [medium](https://twitter.com/brolio04);
+- 📝 I regulary post on twitter [profile](https://twitter.com/brolio04);
 - 📫 How to reach me: brivasabad@gmail.com;
 
 </br>
