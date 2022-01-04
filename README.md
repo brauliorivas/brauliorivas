@@ -24,6 +24,9 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliorivas&repo=countrieshub)](https://github.com/brauliorivas/countrieshub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brauliorivas&repo=pokedex-interactivo)](https://github.com/brauliorivas/pokedex-interactivo)
 
+### Chekout my npm mediaplayer package
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@braulio0000/mediaplayer)
+
 
 📈 **My GitHub Stats:**
 
