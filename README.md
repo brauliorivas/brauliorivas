@@ -8,6 +8,24 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact)
 
+I am a full-stack developer and content creator. I love programming, reading, fitness and business.
+
+As a software engineer, I really like to create a bunch of stuff about anythin new that comes as Crypto, NFT or ecommerce. I have big dreams so I'm constantly hard working.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool (coding related);
+- 🚀 I’m currently learning to code in [platzi](https://platzi.com);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary post on twitter [medium](https://twitter.com/brolio04);
+- 📫 How to reach me: brivasabad@gmail.com;
+
+</br>
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 12 mins   ███████████████████░░░░░░   75.63 % 
