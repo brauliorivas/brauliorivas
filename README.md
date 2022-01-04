@@ -22,7 +22,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 
 📈 **My GitHub Stats:**
 
-[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact&theme=radical)
+[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact&theme=radical)
 
 
 📊 **This Week I Spent My Time On:**
