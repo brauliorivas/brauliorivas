@@ -37,12 +37,12 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 45 mins   █████████████████████▒░░░   85.65 %
-Svelte       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Rust         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   7 hrs 52 mins   █████████████████████░░░░   84.35 %
+Svelte       41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+Rust         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
