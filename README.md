@@ -37,7 +37,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-Rust   5 mins          █████████████████████████   100.00 %
+Rust   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
