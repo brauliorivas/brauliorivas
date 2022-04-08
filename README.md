@@ -37,11 +37,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 mins         █████████████▒░░░░░░░░░░░   53.86 %
-TypeScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-JSON         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Git Config   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-INI          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
