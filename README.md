@@ -37,10 +37,10 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 45 mins    ███████████████████████░░   92.48 %
-Text         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python       2 hrs 52 mins   ███████████████████████▓░   95.28 %
+Text         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
