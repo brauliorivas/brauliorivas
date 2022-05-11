@@ -37,9 +37,8 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 1 min     ███████████████████▒░░░░░   76.72 %
-C++          55 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   3 hrs 1 min     █████████████████████████   99.97 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
