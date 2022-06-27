@@ -37,7 +37,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++   1 hr 54 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
