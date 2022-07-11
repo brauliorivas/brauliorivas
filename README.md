@@ -37,7 +37,8 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++    1 hr 5 mins     ████████████████████████▒   97.68 %
+JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
