@@ -37,8 +37,7 @@ As a software engineer, I really like to create a bunch of stuff about anythin n
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   37 mins         ███████████████████░░░░░░   76.61 %
-Markdown     11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
