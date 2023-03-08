@@ -30,10 +30,10 @@ I am a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-Java         37 mins         ███████████░░░░░░░░░░░░░░   43.53 %
-TypeScript   18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.33 %
-Clojure      17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-Other        10 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+TypeScript   44 mins         ██████████░░░░░░░░░░░░░░░   39.60 %
+Java         37 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
+Clojure      17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
 ```
 
 <!--END_SECTION:waka-->
