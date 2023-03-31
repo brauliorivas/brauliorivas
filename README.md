@@ -30,12 +30,7 @@ I am a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-XML          40 mins         ████████████░░░░░░░░░░░░░   47.40 %
-Java         22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-HTML         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-JSON         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
