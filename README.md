@@ -30,9 +30,10 @@ I am a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 58 mins  ████████████████████████░   95.94 %
-CSS          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JavaScript   21 hrs 18 mins  ███████████████████████▓░   94.92 %
+CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
