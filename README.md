@@ -30,10 +30,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-YAML         7 hrs 53 mins   █████████████▒░░░░░░░░░░░   53.63 %
-Docker       3 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
-Bash         1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Other        50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+YAML         8 hrs 53 mins   ████████████▓░░░░░░░░░░░░   50.00 %
+Docker       3 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+Bash         1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+JavaScript   1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other        1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
