@@ -2,8 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/brolio04)
 
-### Glad to see you here! &nbsp; ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=brauliorivas)
-
+### Glad to see you here! &nbsp;
 I'm a full-stack developer
 
 
