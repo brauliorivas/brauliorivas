@@ -29,11 +29,7 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 50 mins   ████████████████████▓░░░░   82.40 %
-Markdown     23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
