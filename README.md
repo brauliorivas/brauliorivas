@@ -29,9 +29,7 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 mins          ████████████████████████▓   98.93 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
