@@ -29,7 +29,8 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java             45 mins         ████████████████████████▓   98.96 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
