@@ -28,7 +28,7 @@ I'm a full-stack developer
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Java             45 mins         ████████████████████████▓   98.96 %
 GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
