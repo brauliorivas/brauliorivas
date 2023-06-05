@@ -29,8 +29,8 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Java             45 mins         ████████████████████████▓   98.96 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Java             1 hr            ████████████████████████▓   99.20 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
