@@ -29,9 +29,10 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Java         14 mins         ███████████████████░░░░░░   75.34 %
-JavaScript   4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.46 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java             57 mins         ███████████████████████░░   92.33 %
+JavaScript       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
