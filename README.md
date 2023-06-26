@@ -29,11 +29,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 13 mins   ██████████████████▒░░░░░░   73.42 %
-JavaScript   54 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-gitignore    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Python       3 hrs 13 mins   ████████████████████████▒   97.19 %
+gitignore    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
