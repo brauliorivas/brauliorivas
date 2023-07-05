@@ -29,7 +29,7 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python   14 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
