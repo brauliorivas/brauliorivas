@@ -30,11 +30,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript            13 hrs 52 mins  ████████████████████░░░░░   80.28 %
-Python                1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-Java                  1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-TypeScript            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Sublime Text Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript            13 hrs 58 mins  ██████████████████████▒░░   89.50 %
+Java                  54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Dart                  11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
