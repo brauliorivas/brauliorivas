@@ -30,11 +30,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 hrs 2 mins    ████████████████████████▓   98.69 %
+Python     6 hrs 2 mins    ████████████████████████▓   98.71 %
 C#         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 TSQL       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
