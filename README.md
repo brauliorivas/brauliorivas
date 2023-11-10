@@ -30,11 +30,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python           6 hrs 30 mins   ████████████████░░░░░░░░░   64.31 %
-Java             3 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
-XML              20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Python           6 hrs 30 mins   ████████████████▒░░░░░░░░   64.71 %
+Java             3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.43 %
+XML              20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
