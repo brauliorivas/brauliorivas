@@ -7,12 +7,23 @@
 I'm a full-stack developer
 
 
-<!---
+
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
--->
-- 👨🏻‍💻 Currently pursuing a Computer Science Degree at ESPOL
-- 🏁 Participated in various Hackathons
-- 🦴 Member of two coding clubs
+
+<p>
+  <ul>
+    <li>
+      👨🏻‍💻 Currently pursuing a Computer Science Degree at <a href="https://www.espol.edu.ec/" target="_blank rel="noreferrer">ESPOL</a>
+    </li>
+    <li>
+      🏁 Participated in various Hackathons
+    </li>
+    <li>
+      🦴 Member of two coding clubs
+    </li>
+  </ul>
+  <br />
+</p>
 
 </br>
 
