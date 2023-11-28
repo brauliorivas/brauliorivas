@@ -104,10 +104,10 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Java             3 hrs 18 mins   ██████████████████████░░░   88.58 %
-XML              19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-GitIgnore file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-gitignore        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             6 hrs 11 mins   █████████████████████▒░░░   84.74 %
+XML              1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+gitignore        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
