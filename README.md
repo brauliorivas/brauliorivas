@@ -104,7 +104,7 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 28 mins   █████████████████████████   100.00 %
+Python   2 hrs 1 min     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
