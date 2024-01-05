@@ -104,7 +104,9 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   1 hr 30 mins    ██████████████████████▓░░   90.53 %
+Other    8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
