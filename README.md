@@ -104,8 +104,9 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 min           █████████████████████████   99.95 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+CSV    4 mins          ███████████████████▓░░░░░   78.13 %
+Java   1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
