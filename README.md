@@ -104,11 +104,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 13 mins   ██████████████████▒░░░░░░   72.84 %
-JSON         40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-TypeScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-TSConfig     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+JavaScript   8 hrs           ██████████████████▒░░░░░░   73.46 %
+JSON         1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Other        55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TSConfig     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
