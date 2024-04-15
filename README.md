@@ -104,11 +104,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             6 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   42.63 %
-Java             3 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-JavaScript       2 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-HTML             1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Python           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Rust             6 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   37.54 %
+JavaScript       5 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Java             3 hrs 56 mins   ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Python           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
