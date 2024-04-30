@@ -104,8 +104,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-Python   12 mins         ██████████████████████░░░   88.59 %
-Bash     1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Python       3 hrs 57 mins   ██████████████████████▓░░   90.69 %
+Other        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
