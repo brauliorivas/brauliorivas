@@ -1,6 +1,5 @@
 ### Hi there, I'm Braulio Rivas
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/brolio04)
 ![](https://komarev.com/ghpvc/?username=brauliorivas&color=green)
 
 ### Glad to see you here! &nbsp;
