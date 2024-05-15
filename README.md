@@ -99,11 +99,11 @@ I'm a full-stack developer
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    17 hrs 16 mins  ██████████████░░░░░░░░░░░   56.00 %
-YAML          5 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Python        3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-HTML          2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Other         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript    12 hrs 56 mins  ██████████████░░░░░░░░░░░   56.16 %
+YAML          5 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+HTML          2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Python        1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Other         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
