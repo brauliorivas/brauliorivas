@@ -89,7 +89,7 @@ I'm a full-stack developer
 
 📈 **My GitHub Stats:**
 
-[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauliorivas&layout=compact&theme=radical)
+[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brauliorivas&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="caloja1014" /></p>
 
