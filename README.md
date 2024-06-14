@@ -80,9 +80,6 @@
   </a>
 </p>
 
-### Chekout my npm mediaplayer package
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@braulio0000/mediaplayer)
-
 
 📈 **My GitHub Stats:**
 
