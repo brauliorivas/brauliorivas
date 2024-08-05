@@ -1,8 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
 ![](https://komarev.com/ghpvc/?username=brauliorivas&color=green)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 </br>
 
 <p align="left"> 
