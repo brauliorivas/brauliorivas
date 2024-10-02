@@ -1,7 +1,19 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
 ![](https://komarev.com/ghpvc/?username=brauliorivas&color=green)
 
-</br>
+# Hello World! I'm Braulio 👋
+
+I'm a **Computer Science** Engineering student. I like to code in Javascript, and also have some knowledge in Java, Python and C.
+
+## 🌟 Featured Projects
+
+
+## Achievements
+
+I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver medal at OIEC (Ecuadorian Informatics Olympiad). Member of  
+
+
+## Skills
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -46,7 +58,7 @@
 </p>
 
 
-📈 **My GitHub Stats:**
+## 📈 My GitHub stats
 
 [![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas)
 
