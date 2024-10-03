@@ -55,6 +55,9 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript, an
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   </a>
+  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+  </a>
   <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer">          
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   </a>
