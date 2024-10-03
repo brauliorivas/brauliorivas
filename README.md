@@ -66,11 +66,8 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript, an
 
 ## 🔥 My GitHub stats
 
-[![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brauliorivas&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="caloja1014" /></p>
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brauliorivas&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="brauliorivas" />
 
 ## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
