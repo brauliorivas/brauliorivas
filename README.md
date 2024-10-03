@@ -1,19 +1,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
 ![](https://komarev.com/ghpvc/?username=brauliorivas&color=green)
 
-# Hello World! I'm Braulio 👋
+# `Hello World`
 
 I'm a **Computer Science** Engineering student. I like to code in Javascript, and also have some knowledge in Java, Python and C.
 
 ## 🌟 Featured Projects
 
 
-## Achievements
-
-I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver medal at OIEC (Ecuadorian Informatics Olympiad). Member of  
 
 
-## Skills
+## 📈 Achievements
+
+- I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver 🥈 medal at OIEC (Ecuadorian Informatics Olympiad) [2021](https://oiec-inf.org/ganadores-oni2021/). Member of Ecuador's National Team at IOI (International Olympiad in Informatics) [2022](https://stats.ioinformatics.org/delegations/ECU/2022).
+- Won 🥇 PyWeekend [11th Edition Treasure Hunt](https://www.instagram.com/p/CnX4-Scrq79/?utm_source=ig_web_copy_link) Hackathon, one of the largest hackathon at ESPOL that test the best students among 30+ courses of programming fundamentals each semester.
+- Won second 🥈 place at Build with AI Hackathon organized by GDG Guayaquil and sponsored by The Bridge. We created a tool for Consulting Firms where their clients can chat with Gemini and search through a vector database of possible developers that best fit their project requirements. You can find the code here https://github.com/brauliorivas/gdg-ai/.
+
+## 🏂 Skills
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -55,10 +58,13 @@ I've participated in CCC (Canadian Computing Competition), OII (Ibero-American O
   <a href="https://github.com/torvalds/linux" target="_blank" rel="noreferrer">          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40" />
+
 </p>
 
 
-## 📈 My GitHub stats
+## 🔥 My GitHub stats
 
 [![Braulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauliorivas&theme=tokyonight)](https://github.com/brauliorivas)
 
@@ -66,7 +72,7 @@ I've participated in CCC (Canadian Computing Competition), OII (Ibero-American O
 
 
 
-📊 **This Week I Spent My Time On:**
+## 📊 This Week I Spent My Time On
 <!--START_SECTION:waka-->
 
 ```txt
