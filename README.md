@@ -5,7 +5,7 @@
 
 I'm a **Computer Science** Engineering student. I like to code in Javascript, and also have some knowledge in Java, Python and C.
 
-## 📈 Achievements
+## 🤪 Shameless Bragging Rights
 
 - **Google Summer of Code** 2024 @ CERN. Project "Any collection in Data Model Explorer" aimed to enhance [eede](https://github.com/key4hep/eede), a visualization tool for EDM4hep data, by adding new data types and filtering tools. Check more info at my [blog](https://hepsoftwarefoundation.org/gsoc/blogs/2024/blog_Key4hep_BraulioRivas.html). 
 - I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver 🥈 medal at OIEC (Ecuadorian Informatics Olympiad) [2021](https://oiec-inf.org/ganadores-oni2021/). Member of Ecuador's National Team at IOI (International Olympiad in Informatics) [2022](https://stats.ioinformatics.org/delegations/ECU/2022).
