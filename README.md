@@ -3,7 +3,7 @@
 
 # `Hello World`
 
-I'm a **Computer Science** Engineering student. I like to code in Javascript, and also have some knowledge in Java, Python and C.
+I'm a **Computer Science** Engineering student. I like to code in Javascript.
 
 ## 🤪 Shameless Bragging Rights
 
