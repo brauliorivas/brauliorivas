@@ -1,6 +1,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-rivas-abad/)
 ![](https://komarev.com/ghpvc/?username=brauliorivas&color=green)
 
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#-shameless-bragging-rights">Achievements</a></td>
+      <td><a href="#-skills">Skills</a></td>
+      <td><a href="#-my-github-stats">GitHub Stats</a></td>
+      <td><a href="#-this-week-i-spent-my-time-on">Coding time</a></td>
+    </tr>
+  </table>
+</div>
+
 # `Hello World`
 
 I'm a **Computer Science** Engineering student. I like to code in Javascript.
