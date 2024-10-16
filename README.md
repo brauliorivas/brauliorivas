@@ -83,11 +83,11 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   39.45 %
-CSS          2 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 %
-EJS          1 hr 39 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          3 hrs 38 mins   ████████████░░░░░░░░░░░░░   48.31 %
+HTML         3 hrs 16 mins   ███████████░░░░░░░░░░░░░░   43.45 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+EJS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
