@@ -4,7 +4,6 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#-experience-(and-projects)">Achievements</a></td>
       <td><a href="#-skills">Skills</a></td>
       <td><a href="#-my-github-stats">GitHub Stats</a></td>
       <td><a href="#-this-week-i-spent-my-time-on">Coding time</a></td>
