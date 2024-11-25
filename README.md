@@ -22,7 +22,7 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 - I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver 🥈 medal at OIEC (Ecuadorian Informatics Olympiad) [2021](https://oiec-inf.org/ganadores-oni2021/). Member of Ecuador's National Team at IOI (International Olympiad in Informatics) [2022](https://stats.ioinformatics.org/delegations/ECU/2022).
 - Won 🥇 PyWeekend [11th Edition Treasure Hunt](https://www.instagram.com/p/CnX4-Scrq79/?utm_source=ig_web_copy_link) Hackathon, one of the largest hackathon at ESPOL that test the best students among 30+ courses of programming fundamentals each semester.
 - Won second 🥈 place at Build with AI Hackathon organized by GDG Guayaquil and sponsored by The Bridge. We created a tool for Consulting Firms where their clients can chat with Gemini and search through a vector database of possible developers that best fit their project requirements. You can find the code here https://github.com/brauliorivas/gdg-ai/. Technologies: Next.js, FastAPI, Qdrant, Gemini API.
-- Developed a mobile app called (Renters.io)[https://github.com/caloja1014/renters_io_taws] with Flutter for (Taws)[https://taws.espol.edu.ec/] coding club. 
+- Developed a mobile app called [Renters.io](https://github.com/caloja1014/renters_io_taws) with Flutter for [Taws](https://taws.espol.edu.ec/) coding club. 
 
 ## 🏂 Skills
 
