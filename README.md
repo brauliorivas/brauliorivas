@@ -4,6 +4,9 @@
 <div align="center">
   <table>
     <tr>
+      <td><a href="#-experience">Experience</a></td>
+      <td><a href="#-achievements">Achievements</a></td>
+      <td><a href="#-projects">Projects</a></td>
       <td><a href="#-skills">Skills</a></td>
       <td><a href="#-my-github-stats">GitHub Stats</a></td>
       <td><a href="#-this-week-i-spent-my-time-on">Coding time</a></td>
@@ -15,13 +18,27 @@
 
 I'm a **Computer Science** Engineering student. I like to code in Javascript.
 
-## Experience (and projects)
+**My "pre university track"**: I participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver 🥈 medal at OIEC (Ecuadorian Informatics Olympiad) [2021](https://oiec-inf.org/ganadores-oni2021/). Member of Ecuador's National Team at IOI (International Olympiad in Informatics) [2022](https://stats.ioinformatics.org/delegations/ECU/2022).
 
-- **Google Summer of Code** 2024 @ CERN. Project "Any collection in Data Model Explorer" aimed to enhance [eede](https://github.com/key4hep/eede), a visualization tool for EDM4hep data, by adding new data types and filtering tools. Check more info at my [blog](https://hepsoftwarefoundation.org/gsoc/blogs/2024/blog_Key4hep_BraulioRivas.html). Technologies: Javascript, HTML/CSS, Pixi.js.
-- I've participated in CCC (Canadian Computing Competition), OII (Ibero-American Olympiad in Informatics) and won silver 🥈 medal at OIEC (Ecuadorian Informatics Olympiad) [2021](https://oiec-inf.org/ganadores-oni2021/). Member of Ecuador's National Team at IOI (International Olympiad in Informatics) [2022](https://stats.ioinformatics.org/delegations/ECU/2022).
-- Won 🥇 PyWeekend [11th Edition Treasure Hunt](https://www.instagram.com/p/CnX4-Scrq79/?utm_source=ig_web_copy_link) Hackathon, one of the largest hackathon at ESPOL that test the best students among 30+ courses of programming fundamentals each semester.
-- Won second 🥈 place at Build with AI Hackathon organized by GDG Guayaquil and sponsored by The Bridge. We created a tool for Consulting Firms where their clients can chat with Gemini and search through a vector database of possible developers that best fit their project requirements. You can find the code here https://github.com/brauliorivas/gdg-ai/. Technologies: Next.js, FastAPI, Qdrant, Gemini API.
-- Developed a mobile app called [Renters.io](https://github.com/caloja1014/renters_io_taws) with Flutter for [Taws](https://taws.espol.edu.ec/) coding club. 
+## Experience
+
+| Company  | Role                                   | Description                                                                                                                                                                                                                                                                     | Technologies                  | Github                                     | Link                                              |
+| -------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------ | ------------------------------------------------- |
+| CERN-HSF | Google Summer of Code 2024 Contributor | Project "Any collection in Data Model Explorer" aimed to enhance **eede**, a visualization tool for EDM4hep data, by adding new data types and filtering tools. Check more info at my [blog](https://hepsoftwarefoundation.org/gsoc/blogs/2024/blog_Key4hep_BraulioRivas.html). | HTML/CSS, Javascript, Pixi.js | [eede gh](https://github.com/key4hep/eede) | [eede](https://key4hep.github.io/eede/index.html) |
+
+## Achievements
+
+| Type      | Name                                                                                                         | Information                                                                                                                     | Result       | Programming Languages / Libraries |
+| --------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------- |
+| Hackathon | PyWeekend [11th Edition Treasure Hunt](https://www.instagram.com/p/CnX4-Scrq79/?utm_source=ig_web_copy_link) | One of the largest hackathons at ESPOL that test the best students among 30+ courses of programming fundamentals each semester. | 🥇1st Place  | Python                            |
+| Hackathon | Build with AI Hackathon by GDG Guayaquil                                                                     | Organized by Google Developer Groups Guayaquil, about Artificial Intelligence using Gemini                                      | 🥈 2nd Place | Python, Javascript                |
+
+## Projects
+
+| Name        | Description                                                                                                                                                                                                    | Tech Stack                                  | Github                                                      |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------- |
+| Renters.io  | Developed a mobile app that allows businesses to rent their stock called **Renters.io** with Flutter for [Taws](https://taws.espol.edu.ec/) coding club.                                                       | Flutter, Dart, SQLite                       | [Renters.io](https://github.com/caloja1014/renters_io_taws) |
+| "El Puente" | Created a tool for Consulting Firms where their clients can chat with Gemini and search through a vector database of possible developers that best fit their project requirements for Build with AI Hackathon. | Python, FastAPI, Next.js, GeminiAPI, Qdrant | [gdg-ai](https://github.com/brauliorivas/gdg-ai/)           |
 
 ## 🏂 Skills
 
@@ -71,7 +88,6 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
 </p>
 
-
 ## 🔥 My GitHub stats
 
 <p align="center">
@@ -80,6 +96,7 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 </p>
 
 ## 📊 This Week I Spent My Time On
+
 <!--START_SECTION:waka-->
 
 ```txt
