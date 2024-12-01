@@ -101,11 +101,11 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 <!--START_SECTION:waka-->
 
 ```txt
-Python        7 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   36.83 %
-C             4 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-HTML          2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-TypeScript    2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-JavaScript    1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Python        7 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   44.81 %
+HTML          2 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+TypeScript    2 hrs 29 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+JavaScript    1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Markdown      50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
 ```
 
 <!--END_SECTION:waka-->
