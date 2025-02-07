@@ -101,11 +101,7 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 <!--START_SECTION:waka-->
 
 ```txt
-Dart          8 hrs 58 mins   █████████████████████░░░░   83.61 %
-Python        49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-netrw         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Bash          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-YAML          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
