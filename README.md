@@ -111,11 +111,11 @@ I'm a **Computer Science** Engineering student. I like to code in Javascript.
 <!--START_SECTION:waka-->
 
 ```txt
-C            13 hrs 42 mins  █████████▓░░░░░░░░░░░░░░░   38.22 %
-Clojure      10 hrs 44 mins  ███████▒░░░░░░░░░░░░░░░░░   29.96 %
-Python       8 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   23.46 %
-C++          56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Other        34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C            17 hrs 12 mins  ██████████▓░░░░░░░░░░░░░░   42.80 %
+Clojure      13 hrs 32 mins  ████████▒░░░░░░░░░░░░░░░░   33.68 %
+Python       6 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+C++          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
