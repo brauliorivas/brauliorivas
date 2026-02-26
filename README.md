@@ -10,7 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro         31 mins               █████████████▒░░░░░░░░░░░   53.56 %
+Lua           19 mins               ████████▓░░░░░░░░░░░░░░░░   34.03 %
+Image (svg)   5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+Other         1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
