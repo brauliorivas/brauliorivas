@@ -2,8 +2,8 @@
 
 **Computer Science** Engineering student
 
-- [eede](https://github.com/key4hep/eede) developer.
-- [geomman](https://www.freshports.org/sysutils/geomman) maintainer.
+- [eede](https://key4hep.github.io/eede/release/index.html) mantainer.
+- [geomman](https://www.freshports.org/sysutils/geomman) creator.
 
 ## 📊 This Week I Spent My Time On
 
