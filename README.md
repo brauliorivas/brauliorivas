@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Typst   28 mins               █████████████████████████   100.00 %
+Typst   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
